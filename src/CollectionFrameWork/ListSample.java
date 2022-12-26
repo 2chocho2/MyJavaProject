@@ -12,7 +12,7 @@ public class ListSample {
 		array[1] = null;
 		array[2] = null;
 		array[3] = null;
-		System.out.println(array.length);
+		System.out.println(array.length); 
 		System.out.println(Arrays.toString(array));
 		
 		List<String> list = new ArrayList<>();
